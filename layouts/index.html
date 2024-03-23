@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <h1 style="text-align: center"> Droppin Dimes with Dope Rhymes</h1>
+  <p style="text-align: center;"> ludicrous lyrical mastery
+  </p>
+  <br>
+  <ul class="all-blog-posts-page">
+    {{ range site.RegularPages }}
+    <li>
+      <p>
+        <a href="{{ .Permalink }}">
+          <h3>{{ .Title }}</h3>
+	</a>
+      </p>
+      <div class="blog-post-summary"> {{ .Summary }} </div>
+    </li>
+    {{ end }}
+  </ul>
+{{ end }}

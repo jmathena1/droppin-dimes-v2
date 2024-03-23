@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Strays</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on The Strays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2018-05-05-Lahboul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018-05-05-Lahboul/</guid>
+      <description>Welcome to Lahboul&#xA;Take in the sights&#xA;Of fools, ghouls, and tools&#xA;Without any rights&#xA;You can shield your eyes and ears&#xA;As you try desperately to blend</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2018-05-06-Let-us-grow-up/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018-05-06-Let-us-grow-up/</guid>
+      <description>ABCs 123s and Do-re-mis&#xA;School should set our children free&#xA;Rather than shackle their creativity&#xA;As they become target practice&#xA;Resulting from our nation’s inactivity</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2020-09-23-down-time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-09-23-down-time/</guid>
+      <description>Stimulation pulls my brain&#xA;In like a magnet&#xA;Won’t let me go&#xA;Consumes all that I know&#xA;As I try to unwind&#xA;And process my time</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2020-10-03-survivors-march-down-hilton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-10-03-survivors-march-down-hilton/</guid>
+      <description>Their hearts heavy&#xA;Heads high&#xA;Watched over&#xA;By loved ones lost&#xA;Strivers march down hilton&#xA;Their fists raised&#xA;Waving in the crisp fall air&#xA;Cheered on</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2020-11-03-scared/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-11-03-scared/</guid>
+      <description>place is straight packed&#xA;I could not believe&#xA;My naive little eyes&#xA;watching a ravens game&#xA;during a late brunch&#xA;in a filled bar&#xA;surrounded by a pandemic</description>
+    </item>
+  </channel>
+</rss>
