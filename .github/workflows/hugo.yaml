@@ -1,4 +1,4 @@
-name: Deploy the strays site to Pages
+name: Deploy droppin dimes site to Pages
 
 on:
   # Runs on pushes targeting the default branch
